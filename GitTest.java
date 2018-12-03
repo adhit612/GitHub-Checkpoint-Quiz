@@ -1,4 +1,4 @@
-//Thakur
+//thakur
 public class GitTest{
 	private String a;
 
