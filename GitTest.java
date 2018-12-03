@@ -3,7 +3,11 @@ public class GitTest{
 
 
 	public GitTest(String a){
-		this.a = "This is my Github Test";
+		this.a = "This is my GitHub Test";
+	}
+
+	public String toString(){
+		return "This is my GitHub Test";
 	}
 
 
