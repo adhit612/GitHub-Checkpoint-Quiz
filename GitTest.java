@@ -13,6 +13,10 @@ public class GitTest{
 		return "This is my GitHub Test";
 	}
 
+	public void setString(){
+		this.a = a;
+	}
+
 
 
 
